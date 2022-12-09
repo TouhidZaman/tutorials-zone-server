@@ -1,0 +1,52 @@
+[
+    {
+      "title": "React the complete guide",
+      "image": "https://i.ytimg.com/vi/CI2kX2EFhWc/maxresdefault.jpg",
+      "author": "Maximilian Schwarzmüller",
+      "topics": [
+        "react",
+        "redux",
+        "nextJs"
+      ],
+      "price": 20000,
+      "rating": 4.5,
+      "lastUpdate": "2022/12/10"
+    },
+    {
+      "title": "React Native - The Practical Guide [2023]",
+      "image": "https://i.ytimg.com/vi/qSRrxpdMpVc/maxresdefault.jpg",
+      "author": "Maximilian Schwarzmüller",
+      "topics": [
+        "react-native",
+        "redux"
+      ],
+      "price": 15000,
+      "rating": 4.7,
+      "lastUpdate": "2022/12/05"
+    },
+    {
+      "title": "Node.js, Express, MongoDB & More: The Complete Bootcamp",
+      "image": "https://i.ytimg.com/vi/VT20NTbn6U4/maxresdefault.jpg",
+      "author": "Jonas Schmedtmann",
+      "topics": [
+        "nodeJs",
+        "express",
+        "mongoDb"
+      ],
+      "price": 12000,
+      "rating": 4.4,
+      "lastUpdate": "2022/12/02"
+    },
+    {
+      "title": "Next.js Dev to Deployment",
+      "image": "https://i.ytimg.com/vi/8Ze6i0sE-9I/maxresdefault.jpg",
+      "author": "Brad Traversy",
+      "topics": [
+        "react",
+        "nextJs"
+      ],
+      "price": 13000,
+      "rating": 4.2,
+      "lastUpdate": "2022/12/09"
+    }
+  ]
